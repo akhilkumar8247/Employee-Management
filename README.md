@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System
 
 A complete, production-ready Employee Management System built with React, TypeScript, Tailwind CSS, and Supabase.
@@ -117,3 +118,6 @@ src/
 ├── supabase/         # Supabase configuration
 └── types/            # TypeScript type definitions
 ```
+=======
+# Employee-Management
+>>>>>>> 89d07f9f43820be05be11385920b4231a43f2ffc
