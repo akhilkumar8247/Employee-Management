@@ -4,7 +4,7 @@
 A complete, production-ready Employee Management System built with React, TypeScript, Tailwind CSS, and Supabase.
 
 ## Live Demo
-Check the live app here: [Employee Management App](https://697f5bc21e35da6c5d38bac7--employersmanagement.netlify.app/)
+Check the live app here: [Employee Management App](https://employersmanagement.netlify.app/)
 
 ## Features
 
